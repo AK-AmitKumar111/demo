@@ -1,0 +1,13 @@
+h1{ width: 50%;
+    background-color: rgb(198, 165, 228);
+    color: blueviolet;
+    text-align: center;
+}
+p{
+    background-color: red;
+    color: white ;
+    text-align: center;
+}
+body{
+    background-color: rgb(195, 245, 245);
+}
